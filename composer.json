@@ -1,0 +1,13 @@
+{
+    "name": "andriyvolberg/test",
+            "source": {
+                "url": "https://github.com/andriyvolberg/test.git",
+                "type": "git",
+                "reference": "master"
+            },
+    "autoload": {
+        "psr-0" : {
+            "andriyvolberg\\test" : "src"
+        }
+    }
+}
